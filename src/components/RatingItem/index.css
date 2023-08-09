@@ -1,0 +1,14 @@
+.list-ele {
+  list-style-type: none;
+  margin: 10px;
+}
+.rating-button {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+}
+.rate {
+  height: 20px;
+}

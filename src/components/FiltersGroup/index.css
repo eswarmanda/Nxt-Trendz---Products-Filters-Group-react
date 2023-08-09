@@ -1,0 +1,38 @@
+.filters-group-container {
+  margin-top: 16px;
+}
+
+@media screen and (min-width: 768px) {
+  .filters-group-container {
+    width: 30%;
+    max-width: 350px;
+    margin-top: 48px;
+    flex-shrink: 0;
+  }
+}
+
+.p {
+  margin: 10px;
+  font-weight: 500;
+  font-size: larger;
+  margin-bottom: 5px;
+}
+.search-input {
+  height: 40px;
+  padding: 10px;
+  width: 90%;
+  margin: 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: rgb(244, 243, 243);
+}
+.clear-btn {
+  margin: 10px;
+  height: 30px;
+  color: rgb(27, 107, 107);
+  border-color: rgb(76, 220, 220);
+  background-color: transparent;
+  border-radius: 5px;
+  border-style: solid;
+}

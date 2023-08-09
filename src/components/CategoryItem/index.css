@@ -1,0 +1,9 @@
+.list-ele {
+  list-style-type: none;
+}
+
+.category-button {
+  height: 30px;
+  background-color: transparent;
+  border: none;
+}
